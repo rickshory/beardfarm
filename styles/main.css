@@ -1,5 +1,7 @@
 article {
   align-items: center;
+  display: flex;
+  flex-direction: column;
   max-width: 50em;
   width: 90vw;
   border-bottom: 1px solid #ddd;
@@ -7,6 +9,8 @@ article {
 
 body {
   align-items: center;
+  display: flex;
+  flex-direction: column;
   font-family: 'Roboto', sans-serif;
   margin: 3vh 0 3vh 0;
   text-align:center;
@@ -15,7 +19,7 @@ body {
 h1 {
   font-family: "Roboto condensed", sans-serif;
   font-size: 6vw;
-  margin 0 0 1em 0;
+  margin: 0 0 1em 0;
   padding: 0 0 1em 0;
   border-bottom: 1px solid #ddd;
 }

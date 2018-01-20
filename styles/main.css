@@ -2,3 +2,16 @@ article {
   align-items: center;
   border-bottom: 1px solid #ddd;
 }
+
+body {
+  align-items: center
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  font-family: "Roboto condensed", sans-serif;
+}
+
+p {
+  text-align: justify;
+}
